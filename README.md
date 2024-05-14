@@ -1,1 +1,2 @@
 # GIT
+author: satyam navdiya
